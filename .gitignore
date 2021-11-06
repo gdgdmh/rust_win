@@ -10,3 +10,4 @@ Cargo.lock
 **/*.rs.bk
 projects/hello_world/main.exe
 projects/hello_world/main.pdb
+projects/hello_cargo/target
